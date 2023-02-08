@@ -12,4 +12,5 @@ The project includes the following steps:
 3. Model training and evaluation
 4. Deployment of the model to make predictions about new loan applications.
 5. The results of the project can be used to improve the loan approval process and help financial institutions make more informed decisions about loan approval. The code, dataset, and documentation for the project are available on GitHub, allowing other developers and researchers to build upon and extend the work.
+6. 
 I have trained very basic model with a small dataaset. Soory If it will make wrong predictions.
